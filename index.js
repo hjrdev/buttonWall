@@ -1,3 +1,3 @@
-function buttonAlert() {
-    alert("You are really starting to push my buttons!");
+function alertFunction() {
+  alert("I am an alert box!");
 }
